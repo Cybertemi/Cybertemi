@@ -1,31 +1,68 @@
-# Welcome to My GitHub Profile! 👋
-My name is Temitope Ilori, a passionate **Cybersecurity & Cloud Security Analyst** with expertise in Cloud computing, **AWS**, **Azure**, and a strong focus on **Identity and Access Management (IAM)**, **threat detection**, and **risk management**. I work towards ensuring the security, integrity, and availability of cloud-based systems, and am committed to advancing my skills in the ever-evolving cybersecurity landscape.
+👋 Welcome to My GitHub Profile!
 
-## 🔐 My Expertise
+My name is Temitope Ilori, a passionate Cybersecurity & Cloud Security Analyst with a strong focus on cloud computing (AWS & Azure), Identity and Access Management (IAM), threat detection, and risk management. I work toward ensuring the security, integrity, and availability of cloud-based systems and continually seek to advance my skills in the evolving cybersecurity landscape.
 
-- **Cloud Security**: Strong background in securing cloud infrastructures, particularly in **AWS** and **Azure** environments.
-- **Identity & Access Management (IAM)**: Proficient in implementing IAM policies, roles, and permissions to ensure secure access controls.
-- **Threat Detection**: Knowledgeable in using tools and techniques to identify, mitigate, and respond to security threats across cloud environments.
-- **Risk Management**: Expertise in identifying and assessing risks, implementing risk mitigation strategies, and ensuring compliance with industry standards.
+🔐 My Expertise
+Cloud Security: Securing cloud infrastructures, especially within AWS and Azure environments.
 
-## 🛠️ Technologies & Tools
+Identity & Access Management (IAM): Implementing IAM roles, policies, MFA, and RBAC for secure access control.
 
-- **Cloud Platforms**: AWS, Azure
-- **Security Tools**: AWS Security Hub, Azure Security Center, SIEM tools (Splunk, Sentinel, etc.)
-- **IAM**: AWS IAM, Azure Active Directory (AAD), RBAC, MFA
-- **Threat Detection**: CloudTrail, CloudWatch, Azure Sentinel, IDS/IPS systems
+Threat Detection: Leveraging tools like CloudTrail, CloudWatch, Azure Sentinel, and IDS/IPS to detect and respond to threats.
 
-## 🌐 Current Projects
+Risk Management: Identifying risks, applying mitigation strategies, and ensuring compliance with security standards.
 
-- Developing a **comprehensive cloud security architecture** for an organization’s AWS environment.
-- Automating **cloud threat detection** workflows using **AWS Lambda** and **CloudWatch**.
-- Researching best practices for **securing multi-cloud environments**.
+🛠️ Technologies & Tools
+Cloud Platforms: AWS, Azure
 
-## 📈 Continuous Learning
+Security Tools: AWS Security Hub, Azure Security Center,  Azure Sentinel
 
-I’m always striving to stay ahead in the cybersecurity field by taking courses, exploring new tools, and contributing to open-source projects. If you're interested in collaborating or sharing insights, feel free to reach out!
+IAM: AWS IAM, RBAC, MFA
 
-## 📫 Get in Touch
+Monitoring & Detection: CloudTrail, CloudWatch, Sentinel, IDS/IPS
+
+Forensics & Analysis: Wireshark, Procmon, FakeNet-NG, Regshot, YARA, FLARE VM
+
+Languages: Python, Bash , PowerShell 
+
+🌐 Current Projects
+Designing a secure cloud architecture for an organization’s AWS environment
+
+Automating threat detection workflows using AWS Lambda and CloudWatch
+
+Researching best practices for securing multi-cloud infrastructures
+
+Contributing to open-source cybersecurity labs and documentation
+
+📌 Featured Repositories
+
+🔐 aws-security-identity
+Hands-on lab with IAM user setup, MFA, and custom policies. Includes documentation and screenshots.
+
+🕷️ malware-analysis-lab
+Static and dynamic malware analysis using tools like FLARE VM, YARA, and Wireshark. Extracts IOCs and shows persistence methods.
+
+🌐 networking-fundamentals
+Covers OSI model, subnetting, IP addressing, and packet analysis through interactive labs.
+
+☁️ cloud-services-models
+Breaks down IaaS, PaaS, and SaaS with examples from AWS and GCP. Includes cost comparisons and diagrams.
+
+🛡️ cloud-misconfig-analysis
+Analyzes common misconfigurations in AWS, their impact, and how to remediate them.
+
+💻 ussd-banking-simulator
+Command-line simulation of a USSD banking system to demonstrate interactive programming and FinTech basics.
+
+📈 Continuous Learning
+I’m committed to growing in the cybersecurity space through hands-on projects, certifications, online learning, and open-source collaboration. I'm always open to mentorship, knowledge-sharing, or contributing to impactful security work.
+
+📫 Get in Touch
 
 - LinkedIn: https://www.linkedin.com/in/iloritemi
+  
 - Email: iloritemitope1999@gmail.com
+
+Thanks for visiting! Feel free to explore my repos, share feedback, or reach out for collaboration.
+
+
+
