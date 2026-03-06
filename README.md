@@ -1,60 +1,34 @@
 👋 Welcome to My GitHub Profile!
 
-My name is Temitope Ilori, a passionate Cybersecurity & Cloud Security Analyst with a strong focus on cloud computing (AWS & Azure), Identity and Access Management (IAM), threat detection, and risk management. I work toward ensuring the security, integrity, and availability of cloud-based systems and continually seek to advance my skills in the evolving cybersecurity landscape.
+
+My name is Temitope Ilori, a passionate Cloud Security, Cybersecurity, and DevSecOps enthusiast with hands-on experience in cloud computing (AWS & Azure), containerization (Docker & Kubernetes), CI/CD pipelines, and backend development. I focus on building secure, scalable, and production-ready cloud systems, integrating security into DevOps workflows, while continuously advancing my skills in cloud security, DevSecOps, and full-stack development.
+
 
 🔐 My Expertise
-Cloud Security: Securing cloud infrastructures, especially within AWS and Azure environments.
+Cloud Security & DevSecOps: Designing secure cloud architectures, deploying containerized applications, and integrating security into CI/CD pipelines.
 
-Identity & Access Management (IAM): Implementing IAM roles, policies, MFA, and RBAC for secure access control.
+Identity & Access Management (IAM): Configuring IAM roles, policies, MFA, and RBAC for secure access control.
 
-Threat Detection: Leveraging tools like CloudTrail, CloudWatch, Azure Sentinel, and IDS/IPS to detect and respond to threats.
+Threat Detection & Risk Management: Using CloudTrail and  CloudWatch to monitor, detect, and respond to risks.
 
-Risk Management: Identifying risks, applying mitigation strategies, and ensuring compliance with security standards.
+Security Automation: Automating security checks, vulnerability scanning, and compliance monitoring in cloud environments.
 
 🛠️ Technologies & Tools
+
+
 Cloud Platforms: AWS, Azure
+DevOps & DevSecOps Tools: Docker, Kubernetes, Git, GitHub Actions, CI/CD, security scanning tools
 
-Security Tools: AWS Security Hub, Azure Security Center,  Azure Sentinel
+Security & Monitoring: CloudTrail, CloudWatch, Azure Security Center
 
-IAM: AWS IAM, RBAC, MFA
+Forensics & Analysis: Wireshark, FLARE VM, YARA
 
-Monitoring & Detection: CloudTrail, CloudWatch, Sentinel, IDS/IPS
+Languages: Python, Bash, PowerShell
+Databases: PostgreSQL, SQL, DynamoDB
 
-Forensics & Analysis: Wireshark, Procmon, FakeNet-NG, Regshot, YARA, FLARE VM
-
-Languages: Python, Bash , PowerShell 
-
-🌐 Current Projects
-Designing a secure cloud architecture for an organization’s AWS environment
-
-Automating threat detection workflows using AWS Lambda and CloudWatch
-
-Researching best practices for securing multi-cloud infrastructures
-
-Contributing to open-source cybersecurity labs and documentation
-
-📌 Featured Repositories
-
-🔐 aws-security-identity
-Hands-on lab with IAM user setup, MFA, and custom policies. Includes documentation and screenshots.
-
-🕷️ malware-analysis-lab
-Static and dynamic malware analysis using tools like FLARE VM, YARA, and Wireshark. Extracts IOCs and shows persistence methods.
-
-🌐 networking-fundamentals
-Covers OSI model, subnetting, IP addressing, and packet analysis through interactive labs.
-
-☁️ cloud-services-models
-Breaks down IaaS, PaaS, and SaaS with examples from AWS and GCP. Includes cost comparisons and diagrams.
-
-🛡️ cloud-misconfig-analysis
-Analyzes common misconfigurations in AWS, their impact, and how to remediate them.
-
-💻 ussd-banking-simulator
-Command-line simulation of a USSD banking system to demonstrate interactive programming and FinTech basics.
 
 📈 Continuous Learning
-I’m committed to growing in the cybersecurity space through hands-on projects, certifications, online learning, and open-source collaboration. I'm always open to mentorship, knowledge-sharing, or contributing to impactful security work.
+I’m committed to growing in cybersecurity, cloud security, and DevSecOps through hands-on projects, online courses, and open-source collaboration. I’m always open to mentorship, knowledge-sharing, or contributing to impactful projects in cloud, DevOps, and security.
 
 📫 Get in Touch
 
