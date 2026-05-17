@@ -1,42 +1,60 @@
-👋 Welcome to My GitHub Profile!
+# 👋 Welcome to My GitHub Profile!
 
+Hi, I am Temitope Ilori, a Cloud & DevOps Engineer passionate about building scalable, secure, and production-ready cloud infrastructure.
 
-My name is Temitope Ilori, a passionate Cloud Security, Cybersecurity, and DevSecOps enthusiast with hands-on experience in cloud computing (AWS & Azure), containerization (Docker & Kubernetes), CI/CD pipelines, and backend development. I focus on building secure, scalable, and production-ready cloud systems, integrating security into DevOps workflows, while continuously advancing my skills in cloud security, DevSecOps, and full-stack development.
+I have hands-on experience with AWS, Terraform, Docker, Kubernetes (EKS), CI/CD pipelines, Linux administration, and observability tools such as Prometheus and Grafana. I enjoy automating infrastructure, improving deployment workflows, and implementing reliable monitoring systems for modern cloud applications.
 
+## 🚀 What I Work With
 
-🔐 My Expertise
-Cloud Security & DevSecOps: Designing secure cloud architectures, deploying containerized applications, and integrating security into CI/CD pipelines.
+### Cloud & Infrastructure
+- AWS
+- Terraform
+- Linux
+- Networking fundamentals
 
-Identity & Access Management (IAM): Configuring IAM roles, policies, MFA, and RBAC for secure access control.
+### DevOps & Automation
+- Docker
+- Kubernetes (EKS)
+- GitHub Actions
+- CI/CD pipelines
+- Infrastructure as Code (IaC)
 
-Threat Detection & Risk Management: Using CloudTrail and  CloudWatch to monitor, detect, and respond to risks.
+### Monitoring & Observability
+- Prometheus
+- Grafana
+- Loki
+- CloudWatch
 
-Security Automation: Automating security checks, vulnerability scanning, and compliance monitoring in cloud environments.
+### Security & DevSecOps
+- IAM & RBAC
+- CloudTrail
+- Security best practices
+- Vulnerability scanning
+- Secure CI/CD workflows
 
-🛠️ Technologies & Tools
+### Programming & Databases
+- Python
+- Bash
+- PostgreSQL
+- DynamoDB
 
+## 📈 Continuous Learning
 
-Cloud Platforms: AWS, Azure
-DevOps & DevSecOps Tools: Docker, Kubernetes, Git, GitHub Actions, CI/CD, security scanning tools
+I’m continuously improving my skills in Cloud Engineering, DevOps, Kubernetes, Infrastructure Automation, and DevSecOps through hands-on projects, technical labs, and open-source learning.
 
-Security & Monitoring: CloudTrail, CloudWatch, Azure Security Center
+## 📂 Featured Projects
 
-Forensics & Analysis: Wireshark, FLARE VM, YARA
+Here you’ll find projects related to:
+- Kubernetes deployments
+- AWS infrastructure automation
+- CI/CD pipelines
+- Monitoring & observability stacks
+- Containerized applications
+- DevOps automation tools
 
-Languages: Python, Bash, PowerShell
-Databases: PostgreSQL, SQL, DynamoDB
+## 📫 Connect With Me
 
-
-📈 Continuous Learning
-I’m committed to growing in cybersecurity, cloud security, and DevSecOps through hands-on projects, online courses, and open-source collaboration. I’m always open to mentorship, knowledge-sharing, or contributing to impactful projects in cloud, DevOps, and security.
-
-📫 Get in Touch
-
-- LinkedIn: https://www.linkedin.com/in/iloritemi
-  
+- LinkedIn: linkedin.com/in/iloritemi
 - Email: iloritemitope1999@gmail.com
 
-Thanks for visiting! Feel free to explore my repos, share feedback, or reach out for collaboration.
-
-
-
+Thanks for visiting my profile — feel free to explore my repositories and connect with me!
